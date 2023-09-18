@@ -62,8 +62,8 @@ class _HomeState extends State<Home> {
                 top: MediaQuery.of(context).size.height * 0.12,
                 left: 30,
                 child: Container(
-                  width: 200,
-                  height: 200,
+                  width: 100,
+                  height: 100,
                   decoration: BoxDecoration(
                       border: Border.all(color: Colors.black, width: 5),
                       borderRadius: BorderRadius.circular(100)),
