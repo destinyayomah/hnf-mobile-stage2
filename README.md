@@ -9,7 +9,9 @@ CV Viewer is a mobile application built with Flutter that allows users to view a
   - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Live Preview](#live-preview)
 - [Contributing](#contributing)
+- [Stay in touch](#Stay-in-touch)
 - [License](#license)
 
 ## Getting Started
@@ -60,7 +62,7 @@ The application will build and launch on your device/emulator.
 - Easy navigation between profile and editing screens.
 - Save and update your CV details
 
-### Live preview of app
+### Live Preview
 Check out a demo of the app on appetize <a href="https://appetize.io/app/6b7aeo4wvw57x6bz4pwkg3jneu?device=pixel7pro&osVersion=13.0&scale=50">here</a>
 
 ### Contributing
